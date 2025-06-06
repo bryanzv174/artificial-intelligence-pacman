@@ -1,9 +1,48 @@
-# Pac3man: Python3 port of Berkeley Pacman
+# Pacman AI – Artificial Intelligence Project in Python
 
-Porting the Berkeley Pacman assignments over to Python 3.
+This project consists of implementing intelligent agents to solve various challenges within the classic Pacman game using search algorithms. It was developed as part of a university-level Artificial Intelligence course.
 
-Just the assignment code, but none of the solutions.
+## Overview
 
-My solution code is on a different branch, but that branch is committed to a private Github repo so that students cannot see it. That is not really pertinent information but I wanted to share it because I was really excited to figure it out.
+Pacman must navigate mazes, collect food, and visit corners using different AI search strategies. All solutions were implemented from scratch by our team.
 
-This repo also contains two other assignments, a Markov Babbler and a Naive Bayesian Spam Classifier.
+## Implemented Algorithms
+
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Uniform Cost Search (UCS)
+- A* Search with custom heuristics
+- Consistent, non-trivial heuristics to improve performance
+- Solved challenges such as:
+  - Collecting all food
+  - Visiting all four corners
+  - Finding optimal and suboptimal paths
+
+## How to Run
+
+To run a test agent:
+
+```bash
+# Pacman AI – Artificial Intelligence Project in Python
+
+This project consists of implementing intelligent agents to solve various challenges within the classic Pacman game using search algorithms. It was developed as part of a university-level Artificial Intelligence course.
+
+## Overview
+
+Pacman must navigate mazes, collect food, and visit corners using different AI search strategies. All solutions were implemented from scratch by our team.
+
+## Implemented Algorithms
+
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Uniform Cost Search (UCS)
+- A* Search with custom heuristics
+- Consistent, non-trivial heuristics to improve performance
+- Solved challenges such as:
+  - Collecting all food
+  - Visiting all four corners
+  - Finding optimal and suboptimal paths
+
+
+
+
